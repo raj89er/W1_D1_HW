@@ -10,9 +10,9 @@ key: # = done
 #Push your changes to a remote repository (GitHub) using the git push command.
 #Create a new branch called "feature" and switch to that branch.
 #Edit the index.html file to add more HTML code to it.
-Push the changes to the "feature" branch to the remote repository.
-Open a "New Pull Request" to the main branch and merge the "feature" branch into it on GitHub
-Checkout the "main" branch and pull in the changes from the remote repository using the git pull command
+#Push the changes to the "feature" branch to the remote repository.
+#Open a "New Pull Request" to the main branch and merge the "feature" branch into it on GitHub
+#Checkout the "main" branch and pull in the changes from the remote repository using the git pull command
 Create a new branch called "hotfix" and switch to that branch.
 Edit the index.html file to fix a bug or error.
 Commit your changes to the "hotfix" branch.
