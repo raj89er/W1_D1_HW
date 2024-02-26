@@ -13,9 +13,9 @@ key: # = done
 #Push the changes to the "feature" branch to the remote repository.
 #Open a "New Pull Request" to the main branch and merge the "feature" branch into it on GitHub
 #Checkout the "main" branch and pull in the changes from the remote repository using the git pull command
-Create a new branch called "hotfix" and switch to that branch.
-Edit the index.html file to fix a bug or error.
-Commit your changes to the "hotfix" branch.
+#Create a new branch called "hotfix" and switch to that branch.
+#Edit the index.html file to fix a bug or error.
+#Commit your changes to the "hotfix" branch.
 Push your changes on the "hotfix" branch to the remote repository.
 Open a "New Pull Request" to the main branch and merge the "hotfix" branch into it on GitHub
 Switch back to the main branch and pull in the changes from the remote repository
